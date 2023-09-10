@@ -32,7 +32,8 @@ Training for your company
 GitHub offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions.
 
 Extras**
-*************
+
+Goat
 
 An interactive online Git course from Pluralsight has seven levels with dozens of exercises in a fun game format. Feel free to adapt our .gitignore templates to meet your needs.
 
